@@ -68,6 +68,6 @@ Open the test sdwan manager file on the root of the repository
 
 If any issues compare your code to the one on the following links
 
-[sdwan_manager.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/main/modules/sdwan_manager.py)
+[sdwan_manager.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/master/modules/sdwan_manager.py)
 
-[test_sdwan_class.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/main/test_sdwan_class.py)
+[test_sdwan_class.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/master/test_sdwan_class.py)

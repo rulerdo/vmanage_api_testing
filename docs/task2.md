@@ -99,6 +99,6 @@ Use the provided sample-data for your testing
 
 If any issues compare your code to the one on the following links
 
-[support_manager.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/main/modules/support_manager.py)
+[support_manager.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/master/modules/support_manager.py)
 
-[test_support.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/main/test_support.py)
+[test_support.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/master/test_support.py)

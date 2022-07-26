@@ -72,4 +72,5 @@ Execute the script with the following paramaters
 
 If any issues compare your code to the one on the following links
 
-[vmanage_api.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/main/vmanage_api.py)
+[vmanage_api.py](https://wwwin-github.cisco.com/rgomezbe/vmanage_api/blob/master/vmanage_api.py)
+                 
